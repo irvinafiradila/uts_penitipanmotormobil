@@ -18,14 +18,18 @@ Tampilan Login
 ![1.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/1.JPG)
 
 <4>
-Usernama = irvina || Password = 1617
+Username = irvina || Password = 1617
+
 ![2.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/2.JPG)
 
 <5>
+Tampilan Halaman Awal (frameMain)
 
 ![3.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/3.JPG)
 
 <6>
+Tampilan ketika menekan tombol refresh. 
+Sebelumnya sudah menambahkan 2 data diatas.
 
 ![4.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/4.JPG)
 
