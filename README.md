@@ -4,22 +4,25 @@
 
 <1>
 tb_akun
+
 ![15.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/15.JPG)
 
 <2>
 tb_nitip
+
 ![0.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/0.JPG)
 
 <3>
 Tampilan Login
+
 ![1.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/1.JPG)
 
 <4>
-
+Usernama = irvina || Password = 1617
 ![2.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/2.JPG)
 
 <5>
-Usernama = irvina || Password = 1617
+
 ![3.JPG](https://github.com/irvinafiradila/uts_penitipanmotormobil/blob/master/3.JPG)
 
 <6>
